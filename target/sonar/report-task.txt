@@ -2,5 +2,5 @@ projectKey=com.capgemini.samples:maven-simple-project
 serverUrl=http://localhost:9000
 serverVersion=7.9.1.27448
 dashboardUrl=http://localhost:9000/dashboard?id=com.capgemini.samples%3Amaven-simple-project
-ceTaskId=AW0a8V3zFKF-h1QQdzdZ
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AW0a8V3zFKF-h1QQdzdZ
+ceTaskId=AW0a_d3rFKF-h1QQdzdc
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW0a_d3rFKF-h1QQdzdc

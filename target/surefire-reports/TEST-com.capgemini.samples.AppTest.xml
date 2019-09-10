@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.capgemini.samples.AppTest" time="0.099" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.capgemini.samples.AppTest" time="0.103" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\JDKs\jdk-11.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\BBLEYS\AppData\Local\Temp\surefire2407395268852241205\surefirebooter14337034676967059562.jar C:\Users\BBLEYS\AppData\Local\Temp\surefire2407395268852241205 2019-09-10T13-31-16_882-jvmRun1 surefire6199099459145901202tmp surefire_06294142442947143047tmp"/>
+    <property name="sun.java.command" value="C:\Users\BBLEYS\AppData\Local\Temp\surefire8349692787560335561\surefirebooter13073409796374489929.jar C:\Users\BBLEYS\AppData\Local\Temp\surefire8349692787560335561 2019-09-10T13-44-58_455-jvmRun1 surefire17221704749415392883tmp surefire_010661354031891370949tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\BBLEYS\OneDrive - Capgemini\Documents\Java training\maven-simple-project\target\test-classes;C:\Users\BBLEYS\OneDrive - Capgemini\Documents\Java training\maven-simple-project\target\classes;C:\Users\BBLEYS\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\BBLEYS\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\BBLEYS\.m2\repository\org\assertj\assertj-core\3.11.1\assertj-core-3.11.1.jar;C:\Users\BBLEYS\.m2\repository\org\mockito\mockito-core\3.0.0\mockito-core-3.0.0.jar;C:\Users\BBLEYS\.m2\repository\net\bytebuddy\byte-buddy\1.9.10\byte-buddy-1.9.10.jar;C:\Users\BBLEYS\.m2\repository\net\bytebuddy\byte-buddy-agent\1.9.10\byte-buddy-agent-1.9.10.jar;C:\Users\BBLEYS\.m2\repository\org\objenesis\objenesis\2.6\objenesis-2.6.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -34,7 +34,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\BBLEYS\AppData\Local\Temp\surefire2407395268852241205\surefirebooter14337034676967059562.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\BBLEYS\AppData\Local\Temp\surefire8349692787560335561\surefirebooter13073409796374489929.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.2+9"/>
