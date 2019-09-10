@@ -4,22 +4,19 @@
     <list default="true" id="e3e93470-6b5f-4c3a-b57d-42c8b40a86e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/capgemini/samples/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/capgemini/samples/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/capgemini/samples/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/capgemini/samples/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/capgemini/samples/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/capgemini/samples/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-simple-project-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.capgemini.samples.AppTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.capgemini.samples.AppTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/capgemini/samples/AppTest.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,20 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AppTest.testMinus">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.capgemini.samples.App" />
-      <module name="maven-simple-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.capgemini.samples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.CalculatorTest.testMinusException">
     <configuration name="All in maven-simple-project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="maven-simple-project" />
       <option name="PACKAGE_NAME" value="" />
@@ -104,12 +88,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalculatorTest.testMinus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven-simple-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.capgemini.samples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.capgemini.samples" />
+      <option name="MAIN_CLASS_NAME" value="com.capgemini.samples.CalculatorTest" />
+      <option name="METHOD_NAME" value="testMinus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testMinusException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven-simple-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.capgemini.samples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.capgemini.samples" />
+      <option name="MAIN_CLASS_NAME" value="com.capgemini.samples.CalculatorTest" />
+      <option name="METHOD_NAME" value="testMinusException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTest.testMinusException" />
+        <item itemvalue="JUnit.CalculatorTest.testMinus" />
         <item itemvalue="JUnit.AppTest.testMinus" />
         <item itemvalue="JUnit.AppTest" />
         <item itemvalue="JUnit.All in maven-simple-project" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +148,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
